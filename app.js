@@ -24,6 +24,5 @@ function roll() {
   } else msgEl.innerHTML = "Draw !";
 }
 
-document.querySelector("h1").innerHTML = "Winners??wins";
 
 console.log(`${ranNum1} ${ranNum2}`);
